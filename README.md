@@ -24,3 +24,16 @@ Then, a third regression model was built to study the relationship between race/
   However, it is acknowledged that self-reported responses have their limitations. For instance, the accuracy of participants’ responses depends heavily on their introspective ability. 
   If the ability is compromised for reasons such as aging, it is possible for participants to give inaccurate responses. 
   To account for the uncertainties in the self-reported responses, a bootstrap method was applied to the regression models and simulated data 1000 times for each model to increase the validity of the results.
+
+
+
+
+References:
+
+1. Ugolini, F., Massetti, L., Calaza-Martínez, P., Cariñanos, P., Dobbs, C., Ostoic, S. K., Marin, A. M., Pearlmutter, D., Saaroni, H., Šaulienė, I., Simoneti, M., Verlič, A., Vuletić, D., & Sanesi, G. (2020). Effects of the COVID-19 pandemic on the use and perceptions of urban green space: An international exploratory study. Urban forestry & urban greening, 56, 126888. https://doi.org/10.1016/j.ufug.2020.126888
+2.Pouso, S., Borja, Á., Fleming, L. E., Gómez-Baggethun, E., White, M. P., & Uyarra, M. C. (2021). Contact with blue-green spaces during the COVID-19 pandemic lockdown beneficial for mental health. The Science of the total environment, 756, 143984. https://doi.org/10.1016/j.scitotenv.2020.143984
+3. Soga, M., Evans, M. J., Tsuchiya, K., and Fukano, Y.. (2021). A room with a green view: the importance of nearby nature for mental health during the COVID‐19 pandemic. Ecological Applications 31( 2):e02248. 10.1002/eap.2248
+4. Poortinga, W., Bird, N., Hallingberg, B., Phillips, R., & Williams, D. (2021). The role of perceived public and private green space in subjective health and wellbeing during and after the first peak of the COVID-19 outbreak. Landscape and Urban Planning, 211, 104092. https://doi.org/10.1016/j.landurbplan.2021.104092
+5. Grima, Nelson & Corcoran, Will & Hill-James, Corinne & Langton, Benjamin & Sommer, Haley & Fisher, Brendan. (2020). The importance of urban natural areas and urban ecosystem services during the COVID-19 pandemic. 27. Wen, M., Zhang, X., Harris, C. D., Holt, J. B., & Croft, J. B. (2013). Spatial Disparities in the Distribution of Parks and Green Spaces in the USA. Annals of Behavioral Medicine, 45(S1), 18–27. https://doi.org/10.1007/s12160-012-9426-x
+6. Dai, D. (2011). Racial/ethnic and socioeconomic disparities in urban green space accessibility: Where to intervene? Landscape and Urban Planning, 102(4), 234–244. https://doi.org/10.1016/j.landurbplan.2011.05.002
+7. Martin, C. A., Warren, P. S., & Kinzig, A. P. (2004). Neighborhood socioeconomic status is a useful predictor of perennial landscape vegetation in residential neighborhoods and embedded small parks of Phoenix, AZ. Landscape and Urban Planning, 69(4), 355–368. https://doi.org/10.1016/j.landurbplan.2003.10.034
